@@ -1,0 +1,281 @@
+{
+    "buckets": [
+        {
+            "Name": "akirco_aki-apps",
+            "Source": "https://github.com/akirco/aki-apps",
+            "Updated": "2023-03-27T23:19:59+08:00",
+            "Manifests": 318
+        },
+        {
+            "Name": "anderlli0053_DEV-tools",
+            "Source": "https://github.com/anderlli0053/DEV-tools",
+            "Updated": "2023-03-28T07:21:31+08:00",
+            "Manifests": 16162
+        },
+        {
+            "Name": "chawyehsu_dorado",
+            "Source": "https://github.com/chawyehsu/dorado",
+            "Updated": "2023-03-28T08:13:02+08:00",
+            "Manifests": 230
+        },
+        {
+            "Name": "duzyn_scoop-cn",
+            "Source": "https://github.com/duzyn/scoop-cn",
+            "Updated": "2023-03-27T09:06:19+08:00",
+            "Manifests": 4908
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2023-03-28T05:19:20+08:00",
+            "Manifests": 1788
+        },
+        {
+            "Name": "games",
+            "Source": "https://github.com/Calinou/scoop-games",
+            "Updated": "2023-03-28T04:29:18+08:00",
+            "Manifests": 268
+        },
+        {
+            "Name": "hoilc_scoop-lemon",
+            "Source": "https://github.com/hoilc/scoop-lemon",
+            "Updated": "2023-03-28T05:14:16+08:00",
+            "Manifests": 660
+        },
+        {
+            "Name": "ivaquero_scoopet",
+            "Source": "https://github.com/ivaquero/scoopet",
+            "Updated": "2023-03-24T07:16:36+08:00",
+            "Manifests": 64
+        },
+        {
+            "Name": "lzwme_scoop-proxy-cn",
+            "Source": "https://github.com/lzwme/scoop-proxy-cn",
+            "Updated": "2023-03-27T11:02:12+08:00",
+            "Manifests": 16213
+        },
+        {
+            "Name": "main",
+            "Source": "https://ghproxy.com/github.com/ScoopInstaller/Main",
+            "Updated": "2023-03-28T04:26:27+08:00",
+            "Manifests": 1180
+        },
+        {
+            "Name": "spc",
+            "Source": "https://ghproxy.com/https://github.com/lzwme/scoop-proxy-cn",
+            "Updated": "2023-03-27T11:02:12+08:00",
+            "Manifests": 16213
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": "2023-03-28T04:31:46+08:00",
+            "Manifests": 418
+        }
+    ],
+    "apps": [
+        {
+            "Version": "22.01",
+            "Source": "main",
+            "Name": "7zip",
+            "Updated": "2023-03-17T10:37:21.3614122+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "1.36.0-1",
+            "Source": "main",
+            "Name": "aria2",
+            "Updated": "2023-03-17T10:45:13.8235078+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "7.26.0.10",
+            "Source": "ivaquero_scoopet",
+            "Name": "baidunetdisk",
+            "Updated": "2023-03-17T11:02:40.7641661+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "7.30",
+            "Source": "extras",
+            "Name": "bandizip",
+            "Updated": "2023-03-17T13:10:01.6544416+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "7.1",
+            "Source": "extras",
+            "Name": "better-joy",
+            "Updated": "2023-03-17T11:03:41.9387382+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "6.1.0",
+            "Source": "duzyn_scoop-cn",
+            "Name": "ccleaner",
+            "Updated": "2023-03-17T11:23:25.4628796+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "1866-20230326",
+            "Source": "games",
+            "Name": "citra",
+            "Updated": "2023-03-27T16:29:30.4970785+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "0.20.19",
+            "Source": "akirco_aki-apps",
+            "Name": "clash-for-windows",
+            "Updated": "2023-03-26T13:59:55.5543139+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "3.11.2",
+            "Source": "main",
+            "Name": "dark",
+            "Updated": "2023-03-17T13:06:18.1716414+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "10.1.1002.1",
+            "Source": "extras",
+            "Name": "dismplusplus",
+            "Updated": "2023-03-17T15:26:09.6236335+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "111.0.1",
+            "Source": "extras",
+            "Name": "firefox",
+            "Updated": "2023-03-25T23:18:04.4631205+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "2.40.0.windows.1",
+            "Source": "main",
+            "Name": "git",
+            "Updated": "2023-03-17T10:39:38.2980071+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "4.0.1",
+            "Source": "extras",
+            "Name": "godot",
+            "Updated": "2023-03-24T07:47:17.8000417+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "22.12",
+            "Source": "main",
+            "Name": "helix",
+            "Updated": "2023-03-17T18:23:38.2899809+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "2.2.0",
+            "Source": "akirco_aki-apps",
+            "Name": "lx-music-desktop",
+            "Updated": "2023-03-28T08:27:08.0129364+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "0.7",
+            "Source": "extras",
+            "Name": "macast",
+            "Updated": "2023-03-17T15:12:51.9815081+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "4.6.4",
+            "Source": "extras",
+            "Name": "msiafterburner",
+            "Updated": "2023-03-17T11:08:15.8818876+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "14.19.4",
+            "Source": "main",
+            "Name": "oh-my-posh",
+            "Updated": "2023-03-28T08:25:59.7752835+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "230207",
+            "Source": "extras",
+            "Name": "potplayer",
+            "Updated": "2023-03-17T10:58:04.2456285+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "3.11.2",
+            "Source": "main",
+            "Name": "python",
+            "Updated": "2023-03-20T15:12:28.717454+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "7.3.3",
+            "Source": "extras",
+            "Name": "rtss",
+            "Updated": "2023-03-17T11:09:33.3038663+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "1.1.686",
+            "Source": "games",
+            "Name": "ryujinx-ava",
+            "Updated": "2023-03-28T08:26:09.0156252+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "2.0.6.0",
+            "Source": "anderlli0053_DEV-tools",
+            "Name": "sakurafrp-launcher",
+            "Updated": "2023-03-17T12:04:13.3879098+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "nightly-20230317",
+            "Source": "versions",
+            "Name": "steam",
+            "Updated": "2023-03-17T12:08:27.1908646+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "3.5.6.416",
+            "Source": "ivaquero_scoopet",
+            "Name": "tencent-meeting",
+            "Updated": "2023-03-17T13:19:06.9541785+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "1.76.2",
+            "Source": "extras",
+            "Name": "vscode",
+            "Updated": "2023-03-17T10:57:13.4737965+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "3.9.0.28",
+            "Source": "extras",
+            "Name": "wechat",
+            "Updated": "2023-03-17T12:27:42.0324+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "2.0.5.2",
+            "Source": "hoilc_scoop-lemon",
+            "Name": "xdown",
+            "Updated": "2023-03-17T14:45:40.5223908+08:00",
+            "Info": ""
+        },
+        {
+            "Version": "0-1385",
+            "Source": "games",
+            "Name": "yuzu",
+            "Updated": "2023-03-28T08:26:26.663513+08:00",
+            "Info": ""
+        }
+    ]
+}
